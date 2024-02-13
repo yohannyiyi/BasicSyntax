@@ -1,0 +1,5 @@
+﻿  BasicSyntax.cpp
+C:\Users\addinedu\Documents\cpp\BasicSyntax\BasicSyntax\BasicSyntax.cpp(7,1): error C2447: '{': missing function header (old-style formal list?)
+  FileName.cpp
+C:\Users\addinedu\Documents\cpp\BasicSyntax\BasicSyntax\FileName.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
